@@ -14,6 +14,6 @@
 </p>
 <p align="right">
 	<samp>
-		<br> Contact me on <a href="https://twitter.com/3D_Aurel">Twitter</a> or <a href="mailto&#58;bouhvivez&#64gm&#97;&#105l.com">Send an Email</a>
+		<br> Contact me on <a href="https://twitter.com/3D_Aurel">Twitter</a> or <a href="mailto&#58;bouhvive.z&#64gm&#97;&#105l.com">Send an Email</a>
 	</samp>
 </p>
