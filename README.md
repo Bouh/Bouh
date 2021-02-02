@@ -1,3 +1,7 @@
+
+[![GitHub](https://img.shields.io/github/followers/Bouh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Bouh)
+[![Twitter](https://img.shields.io/twitter/follow/3D_Aurel?label=Follow&style=social)](https://twitter.com/3D_Aurel)
+
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 	<samp>    
@@ -16,6 +20,4 @@
 	<samp>
 		<br> Contact me on <a href="https://twitter.com/3D_Aurel">Twitter</a> or <a href="mailto&#58;bouhvive.z&#64gm&#97;&#105l.com">Send an Email</a>
 	</samp>
-[![GitHub](https://img.shields.io/github/followers/Bouh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Bouh)
-[![Twitter](https://img.shields.io/twitter/follow/3D_Aurel?label=Follow&style=social)](https://twitter.com/3D_Aurel)
 </p>
